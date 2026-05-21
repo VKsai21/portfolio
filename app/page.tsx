@@ -1,4 +1,4 @@
-import ProductionScale from "@/sections/production-scale";
+import ProductionScale from "@/app/production-scale";
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-[#F3F4F1] text-[#111111]">
