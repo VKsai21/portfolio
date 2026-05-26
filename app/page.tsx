@@ -596,7 +596,7 @@ export default function HomePage() {
 
           <div className="mt-20 space-y-10">
 
-            {/* PROJECT 1 */}
+            /* {/* PROJECT 1 */}
 
             <div className="overflow-hidden rounded-[2.5rem] border border-black/10 bg-white">
 
@@ -718,7 +718,7 @@ export default function HomePage() {
 
               </div>
 
-            </div>
+            </div> */
 
             {/* PROJECT 2 */}
 
