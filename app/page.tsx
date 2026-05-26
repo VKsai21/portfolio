@@ -626,7 +626,7 @@ export default function HomePage() {
 
                       Developed a scalable IoT automation system using ESP32,
                       Firebase Realtime Database, relay control systems,
-                      scheduling automation, and embedded communication workflows.
+                      scheduling automation, and embedded communication workflows which led to Shoolin Automation Technologies
 
                     </p>
 
